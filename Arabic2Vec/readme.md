@@ -13,6 +13,10 @@ This repository contains an implementation of the word2vec model using Arabic-Eg
 
 To use the implementation, simply clone the repository and run the provided Jupyter notebook. The notebook contains the implementation of the skip-gram model and demonstrates how to train and evaluate the model using the Arabic-Egyptian Wikipedia data.
 
+## Results
+![alt text](/assets/skipgram.png)
+
+
 ## Dependencies
 
 The implementation relies on the following dependencies:
