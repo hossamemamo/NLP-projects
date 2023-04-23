@@ -5,7 +5,7 @@ Please note that this repo is a work in progress!
 ## Goals
 
 - [x] Implement Ara2vec model
-- [ ] (to be decided yet)
+- [ ] (to be decided later)
 
 ## Ara2vec
 
