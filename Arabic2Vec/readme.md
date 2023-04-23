@@ -14,9 +14,10 @@ This repository contains an implementation of the word2vec model using Arabic-Eg
 To use the implementation, simply clone the repository and run the provided Jupyter notebook. The notebook contains the implementation of the skip-gram model and demonstrates how to train and evaluate the model using the Arabic-Egyptian Wikipedia data.
 
 ## Results
+
+Using a skipgram model
 ![alt text](assets/skipgram.png)
-
-
+as you can see words in the football category are in the upper right corner and close to eachothers because they have a higher chance in appearing within the context of each other
 ## Dependencies
 
 The implementation relies on the following dependencies:
